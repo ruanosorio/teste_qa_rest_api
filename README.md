@@ -8,8 +8,8 @@ Tecnologias:
  - Rest-assured 3.0.
 
 Execução:
-No pront utilize o comando: mvn clean install test.
-Na IDE utilize o JUnit.
+- No pront utilize o comando: mvn clean install test.
+- Na IDE utilize o JUnit.
 
 Justificativa:
 Devido o entendimento do processo da API, foram desenvolvidos 4 cenários de testes.
